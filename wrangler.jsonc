@@ -13,7 +13,7 @@
     "nodejs_compat"
   ],
   "routes": [
-    { "pattern": "chancytsonga.com", "custom_domain": true, "override_existing_dns_record": true },
-    { "pattern": "www.chancytsonga.com", "custom_domain": true, "override_existing_dns_record": true }
+    { "pattern": "chancytsonga.com", "custom_domain": true },
+    { "pattern": "www.chancytsonga.com", "custom_domain": true }
   ]
 }

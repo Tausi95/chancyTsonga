@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "chancytsonga",
+  "name": "tsongachancy",
   "compatibility_date": "2026-04-07",
   "observability": {
     "enabled": true
@@ -12,8 +12,4 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "routes": [
-    { "pattern": "chancytsonga.com", "custom_domain": true },
-    { "pattern": "www.chancytsonga.com", "custom_domain": true }
-  ]
 }
